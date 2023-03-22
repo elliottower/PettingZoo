@@ -4,9 +4,9 @@ title: "CleanRL"
 
 # CleanRL Tutorial
 
-This tutorial shows how CleanRL can be used to implement a reinforcement learning algorithm from scratch, with minimal lines of code. 
+This tutorial shows how to use [CleanRL](https://github.com/vwxyzjn/cleanrl) to implement a model and train it on a PettingZoo environment. 
 
-### [Implementing PPO](/tutorials/cleanrl/implementing_PPO.md)
+* [Implementing PPO](/tutorials/cleanrl/implementing_PPO.md): _Implement and train a PPO model_
 
 
 ## CleanRL Overview

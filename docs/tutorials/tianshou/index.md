@@ -4,13 +4,13 @@ title: "Tianshou"
 
 # Tianshou Tutorial
 
-These tutorials provide a full example using Tianshou to train a DQN agent to play tic-tac-toe using PettingZoo.
+These tutorials provide an introduction to using [Tianshou](https://github.com/thu-ml/tianshou) with PettingZoo. 
 
-### [Basic API Usage](/tutorials/tianshou/beginner/)
+* [Basic API Usage](/tutorials/tianshou/beginner/): _View a game between random agents_ 
 
-### [Training Agents](/tutorials/tianshou/intermediate)
+* [Training Agents](/tutorials/tianshou/intermediate): _Train a DQN agent_
 
-### [CLI and Logging](/tutorials/tianshou/advanced)
+* [CLI and Logging](/tutorials/tianshou/advanced): _Full training script with CLI and logging_
 
 ## Tianshou Overview
 
@@ -18,6 +18,12 @@ These tutorials provide a full example using Tianshou to train a DQN agent to pl
 It uses pure [PyTorch](https://pytorch.org/) and is written in only ~4000 lines of code. 
 
 It boasts a large number of algorithms and high quality software engineering standards: thorough testing, type hints, and comprehensive documentation.
+
+## Examples using PettingZoo
+
+* [Multi-Agent RL](https://tianshou.readthedocs.io/en/master/tutorials/tictactoe.html)
+
+## Architecture
 
 ```{figure} /_static/img/tutorials/tianshou.png
     :alt: Tianshou Architecture
